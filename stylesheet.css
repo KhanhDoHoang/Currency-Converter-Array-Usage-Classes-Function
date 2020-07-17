@@ -37,6 +37,16 @@ legend {
   padding: 5px 10px;
 }
 
+h3 {
+  text-align: center;
+  color: #5878aa;
+}
+
+.arrays-class {
+  text-align: center;
+  margin-top: 5rem;
+}
+
 input {
   margin: 5px;
 }
